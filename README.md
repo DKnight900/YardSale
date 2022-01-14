@@ -1,2 +1,2 @@
 # YardSale
-FrontEnd development educational project - Vanilla JavaScript, HTML and CSS
+FrontEnd development educational project - HTML and CSS
